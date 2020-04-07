@@ -1,2 +1,9 @@
 server:
    port: 8086
+   
+spring:
+   data:
+      mongodb:
+         database: videoClub
+         host: localhost
+         port: 27017
